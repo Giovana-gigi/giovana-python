@@ -1,3 +1,9 @@
+'''
+Meu projeto é apenas uma coleção de exercícios que aprendi em Python e reuni em um só lugar.
+'''
+
+
+
 # Inicio 
 condicao = True
 while condicao:
